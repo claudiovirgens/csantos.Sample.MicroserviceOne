@@ -23,6 +23,9 @@ Docker Containerization
 Healthchecks - You Can check the service health using URL: http://serverip:port/checkhealth
 Documentations Wiht Swashbucked Swagger http://localhost:5000/swagger/index.html
 
-HealthChecks
+HealthChecks:
+
 ![healthChecksCaptura de tela 2020-11-01 123212](https://user-images.githubusercontent.com/22963012/97807210-55ebd100-1c3e-11eb-865d-5d074e043450.png)
 
+DockerFile:
+![DockerMicroservice_Captura de tela 2020-11-01 123519](https://user-images.githubusercontent.com/22963012/97807304-d3174600-1c3e-11eb-8662-c7db0961bdc3.png)
