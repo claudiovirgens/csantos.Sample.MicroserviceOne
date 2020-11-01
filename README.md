@@ -7,6 +7,8 @@ Cancel - To Cancel an existing Order ( Este endpoint é para cancelar um Order e
 GetById - This Endpoind is To Get Order By ID (This Endpoint is para obter um Order com base no seu Id)
 GetByCostomerId - Get All orders for Customer Id (This Endpoint is para obter todas Orders com base no Id do Customer)
 
+![Microservice Captura de tela 2020-11-01 104012](https://user-images.githubusercontent.com/22963012/97807138-de1da680-1c3d-11eb-8e9b-2a544db96d28.png)
+
 OBS:
 Customer and Product are others Microservices, Order Microservice contains just customerId and productId.
 Logging Feature must be configured for save log files outside of dockers containers because if you store in the containers then there is a possibility of losing that data.
