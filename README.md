@@ -2,6 +2,10 @@
 
 Example Microservice - Order REST API Para ter acesso a Documentação acesse: http://localhost:5000/swagger/index.html
 
+http://localhost:5000/api/v1/Order/GetById/1
+
+http://localhost:5000/api/v1/Order/Add
+
 ![Microservice Captura de tela 2020-11-01 104012](https://user-images.githubusercontent.com/22963012/97807138-de1da680-1c3d-11eb-8e9b-2a544db96d28.png)
 
 Add - This Endpoint is To Create a new Order (Este endpoint é para criação de uma novo registro na Entidade Order)
